@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537504507387",
+    "firebase_url": "https://raines-shop.firebaseio.com",
+    "project_id": "raines-shop",
+    "storage_bucket": "raines-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537504507387:android:133d6a609ef3f46407575e",
+        "android_client_info": {
+          "package_name": "za.raines.rainesshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537504507387-ii2e0inhsf0r7o2l1901de9ue9irnrk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF1G3xsY1MVVPKI1QhXfUOVCzzacw7mxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537504507387-ii2e0inhsf0r7o2l1901de9ue9irnrk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
